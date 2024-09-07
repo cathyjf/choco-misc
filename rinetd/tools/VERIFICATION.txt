@@ -1,0 +1,15 @@
+﻿VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The `rinetd.exe` binary was downloaded from the "Releases" page of the GitHub
+repository for the rinetd project:
+
+    https://github.com/samhocevar/rinetd/releases/tag/v0.73
+
+If you download the `rinetd.exe` file available on the release page, you
+will find that it has the same SHA256 checksum as the `rinetd.exe` file
+included in this package, namely:
+
+    A818A591F178E6975D02A99B43F2681FC3D6C5C58AB743FBAC239413381A709A

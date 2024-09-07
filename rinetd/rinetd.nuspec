@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>rinetd</id>
+    <version>0.73</version>
+    <packageSourceUrl>https://github.com/cathyjf/choco-misc/tree/main/rinetd</packageSourceUrl>
+    <owners>Cathy J. Fitzpatrick &lt;cathy@cathyjf.com&gt;</owners>
+    <title>rinetd</title>
+    <authors>Thomas Boutell and Sam Hocevar</authors>
+    <projectUrl>https://github.com/samhocevar/rinetd</projectUrl>
+    <!--<iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/rinetd.png</iconUrl>-->
+    <!-- <copyright>Year Software Vendor</copyright> -->
+    <licenseUrl>https://github.com/samhocevar/rinetd/blob/main/COPYING</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/samhocevar/rinetd</projectSourceUrl>
+    <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
+    <!--<mailingListUrl></mailingListUrl>-->
+    <bugTrackerUrl>https://github.com/samhocevar/rinetd/issues</bugTrackerUrl>
+    <tags>rinetd</tags>
+    <description>TCP/UDP port redirector</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
